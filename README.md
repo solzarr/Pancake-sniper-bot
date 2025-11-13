@@ -1,4 +1,4 @@
-# Bnb Four.meme Migration Monitor/Sniper
+# Bnb Four.meme Migration Sniper
 
 This tool allows users can detect new migration from four.meme to PancakeSwap.
 It can be used for migration sniping if we integrate pancake swap.
@@ -13,7 +13,7 @@ It can be used for migration sniping if we integrate pancake swap.
 
 ✔ Sniping as first buyer (Completed)
 
-  Selling logic
+🚧 Selling logic (Working on it)
 
 ## Test Result
 
