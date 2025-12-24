@@ -37,3 +37,4 @@ If you have any question or something, feel free to reach out me anytime.
 #### 🌹 You're always welcome 🌹
 
 Telegram: [@solzarr](https://t.me/solzarr) <br>
+X(twitter): [@solzarr](https://x.com/0xmarcus0401)
